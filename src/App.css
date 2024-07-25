@@ -18,20 +18,20 @@
 }
 
 .carousel-image {
-  height: 400px; /* Adjust the height as needed */
-  object-fit: cover; /* Ensures the image covers the container without distortion */
+  height: 400px; 
+  object-fit: cover; 
 }
 
 .featured-programs {
   margin-top: 20px;
   padding: 20px;
-  background-color: #f8f9fa; /* Light gray background */
+  background-color: #f8f9fa; 
 }
 
 .featured-programs h2 {
   margin-bottom: 20px;
   font-size: 2rem;
-  color: #343a40; /* Darker color for text */
+  color: #343a40;
 }
 
 .program-cards {
@@ -46,7 +46,7 @@
   border-radius: 10px;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
   overflow: hidden;
-  width: 300px; /* Card width */
+  width: 300px; 
   text-align: left;
   padding: 15px;
 }
@@ -63,7 +63,7 @@
 }
 
 .program-card p {
-  color: #6c757d; /* Gray text color */
+  color: #6c757d; 
 }
 /* quickLinks */
 .quick-links {
@@ -192,7 +192,7 @@
 /* navbar */
 .navbar-custom {
   padding: 0.5rem 1rem;
-  border-bottom: 2px solid #007bff; /* Blue border */
+  border-bottom: 2px solid #007bff; 
 }
 
 .navbar-custom .navbar-brand {
@@ -648,7 +648,7 @@
 
 .gallery-grid {
   display: grid;
-  grid-template-columns: repeat(3, 1fr); /* 3 columns */
+  grid-template-columns: repeat(3, 1fr); 
   gap: 1rem;
   padding: 1rem;
 }
@@ -658,7 +658,7 @@
   height: auto;
   border-radius: 10px;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-  object-fit: cover; /* Ensures images cover the grid cells */
+  object-fit: cover; 
   transition: transform 0.3s, box-shadow 0.3s;
 }
 
